@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bobbychandel.github.io/sitemap.xml
